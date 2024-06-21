@@ -3,6 +3,8 @@ Pelacak IP 🚶
 
  ```Tutorial Agar Selalu Sigma Dan Gyat Saat Menginstal```
 
+![IMG_20240621_105527](https://github.com/andixax/ip/assets/168948944/a3850905-0ea8-426f-ab1f-14fc17f9d1b1)
+
 
 ```
 pkg install git
